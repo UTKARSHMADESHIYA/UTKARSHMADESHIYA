@@ -1,6 +1,6 @@
 ### Hey👋, I'm Utkarsh!
 student at NITRA TECHNICAL CAMPUS 
-![image](https://www.linkedin.com/in/utkarsh-madeshiya-94824b229/)
+(https://www.linkedin.com/in/utkarsh-madeshiya-94824b229/)
 
 
 <!--
