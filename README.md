@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm utkarsh madeshiya</h1>
 <h3 align="center">I am a computer science sophomore exploring new technology, Open to learning and collaborating with others,and intrested in finding efficient solutions to real-world problems.</h3>
-<img algin="right"alt="coding"width="450"src="https://th.bing.com/th/id/OIP.hBsQKvVysYI80ItppcAPWgHaFj?pid=![image](https://user-images.githubusercontent.com/102467601/236389015-33aff45f-7959-49ed-a83a-825e3c660384.png)
+<img algin="right"alt="coding"width="450"src="https://th.bing.com/th/id/OIP.hBsQKvVysYI80ItppcAPWgHaFj?pid=https://github.com/UTKARSHMADESHIYA/UTKARSHMADESHIYA.wiki.git)
 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmadeshiya&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshmadeshiya" /> </p>
