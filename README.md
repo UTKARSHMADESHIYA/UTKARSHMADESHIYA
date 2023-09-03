@@ -1,14 +1,29 @@
-<h1 align="center">Hi 👋, I'm utkarsh madeshiya</h1>
-<h3 align="center">I am a computer science sophomore exploring new technology, Open to learning and collaborating with others,and intrested in finding efficient solutions to real-world problems.</h3>
+### About Me
 
-<img style="display: block;-webkit-user-select:auto ;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://th.bing.com/th/id/OIP.hBsQKvVysYI80ItppcAPWgHaFj/download" width="600" height="355">                                             
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmadeshiya&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshmadeshiya" /> </p>
+- 👋 Hi, I'm Utkarsh Madeshiya.
+- 🌱 I'm a third-year undergraduate student passionate about coding and technology.
+- 📚 Currently pursuing my Computer Science degree at Dr. A.P.J. Abdul Kalam Technical University.
+- 💻 Exploring the world of programming, Machine learning, Web Development and more.
+- 🚀 Eager to learn, collaborate, and contribute to exciting projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarshmadeshiya" alt="utkarshmadeshiya" /></a> </p>
+### My Tech Interests
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🌐 I'm fascinated by Web Development, Machine Learning, Data Analysis etc.
+- 💡 Excited to dive deeper into Machīne Learning.
+- 📊 Experimenting with Python Libraries now.
 
-- 🌱 I’m currently learning **Data analytics with python**
+### Learning Journey
 
-- 📫 How to reach me **utkarshdddos8948@gmail.com**
+- 🔭 Currently focusing on understanding and contributing the open projects.
+- 🌱 Learning more about Tensorflow.
+- 📚 Seeking to bridge the gap between theory and practical application.
+
+### Connect with Me
+
+- 👥 I'm keen to connect with fellow developers, students, and mentors.
+- 💬 Feel free to reach out for coding discussions, project ideas, or just a friendly chat!
+
+### Let's Grow Together
+
+- 🚀 Let's embark on this coding journey together, and let's learn and grow as developers.
 
